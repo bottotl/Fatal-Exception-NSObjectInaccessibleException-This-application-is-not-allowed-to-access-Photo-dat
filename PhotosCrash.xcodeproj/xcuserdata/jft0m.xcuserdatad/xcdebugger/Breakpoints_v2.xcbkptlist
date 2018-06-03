@@ -43,15 +43,6 @@
             symbolName = "[PHCoreImageManager _cancelAndFlushPreheatItemsForAssets:CPLPrefetching:domain:operation:passingTestHandler:didCancelHandler:]"
             moduleName = "">
             <Locations>
-               <Location
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "-[PHCoreImageManager _cancelAndFlushPreheatItemsForAssets:CPLPrefetching:domain:operation:passingTestHandler:didCancelHandler:]"
-                  moduleName = "Photos"
-                  usesParentBreakpointCondition = "Yes"
-                  offsetFromSymbolStart = "0">
-               </Location>
             </Locations>
          </BreakpointContent>
       </BreakpointProxy>
